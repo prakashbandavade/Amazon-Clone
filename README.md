@@ -3,7 +3,7 @@
 
 A responsive Amazon Clone built using **HTML** and **CSS** that mimics the UI of Amazon's homepage. This project demonstrates strong front-end development skills with clean code and responsive design practices.
 
-![Amazon Clone Screenshot](ss1.png)
+![Amazon Clone Screenshot](ss1.png)(ss2.png)(ss3.png)
 
 ## 🚀 Features
 
